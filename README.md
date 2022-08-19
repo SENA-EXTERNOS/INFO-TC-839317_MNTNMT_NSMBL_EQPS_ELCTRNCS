@@ -1,7 +1,7 @@
-# **sena-base-info-2021 v2.0.0**
+# **Información de programa. Técnico. Mantenimiento y ensamble de equipos electrónicos**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-INFO-2021/](https://ecored-sena.github.io/ECORED-BASE-INFO-2021/)
+[https://sena-externos.github.io/INFO-TC-839317_MNTNMT_NSMBL_EQPS_ELCTRNCS/](https://sena-externos.github.io/INFO-TC-839317_MNTNMT_NSMBL_EQPS_ELCTRNCS/)
 
 #
